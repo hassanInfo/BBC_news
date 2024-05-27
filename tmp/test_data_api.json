@@ -1,0 +1,2447 @@
+[
+    [
+        {
+            "path": "/news/articles/c900qz4wll4o",
+            "id": "urn:bbc:optimo:asset:c900qz4wll4o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Analysis: Putin's military purge echoes Prigozhin's call to act",
+            "summary": "Russia's president seems to be acting on the late Wagner chief's warnings, but in his own time.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d817/live/b9ffadd0-18f5-11ef-9b55-076e569e8f32.jpg",
+                        "altText": "Sergei Shoigu and Vladimir Putin",
+                        "width": 761,
+                        "height": 428
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 23 2024 12:23:36 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 23 2024 17:45:53 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cqvv2xn3qy8o",
+            "id": "urn:bbc:optimo:asset:cqvv2xn3qy8o",
+            "type": "article",
+            "subtype": "news",
+            "title": "At least seven dead in Russian missile attack on Kharkiv",
+            "summary": "The attack is the latest in a Russian offensive along the north-eastern border.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c038/live/dd00e7e0-18eb-11ef-baa7-25d483663b8e.jpg",
+                        "altText": "A firefighter wearing a mask inside a damaged building",
+                        "width": 800,
+                        "height": 450
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 23 2024 10:36:36 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 23 2024 10:36:36 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c6ppl5v1lwzo",
+            "id": "urn:bbc:optimo:asset:c6ppl5v1lwzo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Baltic concerns over Russian plan to move sea borders",
+            "summary": "Finland and the Baltic states react to a Russian proposal to redraw sea borders dating back 40 years.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/89e0/live/75fee0b0-1846-11ef-be2b-033e2595d1e2.jpg",
+                        "altText": "A boat in Finland",
+                        "width": 1952,
+                        "height": 1098
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 22 2024 14:30:58 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 22 2024 14:30:58 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cq55ww5j7e2o",
+            "id": "urn:bbc:optimo:asset:cq55ww5j7e2o",
+            "type": "article",
+            "subtype": "news",
+            "title": "US says Russia likely launched anti-satellite weapon",
+            "summary": "The Russian satellite launched last week may be capable of attacking other satellites, the Pentagon says.",
+            "topics": [
+                "World"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4b21/live/fc08cdc0-17f0-11ef-9776-397003219b1a.jpg",
+                        "altText": "Russia's Soyuz-2.1b launch vehicles blasts off into space. File photo",
+                        "width": 1620,
+                        "height": 911
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 22 2024 04:22:18 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 22 2024 04:22:18 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cl44jne1l1ko",
+            "id": "urn:bbc:optimo:asset:cl44jne1l1ko",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ex-Russian army commander detained over fraud charge",
+            "summary": "Ivan Popov was fired in 2023 after criticising Russia's management of the Ukraine war in a leaked recording.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9b87/live/c46fd230-17ca-11ef-b5cc-cb8b8c4cef5a.png",
+                        "altText": "Russian Maj General Ivan Popov. File photo",
+                        "width": 968,
+                        "height": 547
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 22 2024 00:25:24 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 22 2024 00:35:11 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cq55rpqlp31o",
+            "id": "urn:bbc:optimo:asset:cq55rpqlp31o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine makes gains in its other war - fighting corruption",
+            "summary": "Experts say Ukraine is now making significant progress in its long struggle against corruption.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/09a9/live/7767fa90-176a-11ef-9e39-410e2d585bfa.jpg",
+                        "altText": "Former President of the Supreme Court of Ukraine Vsevolod Kniaziev, who is suspected of receiving a USD 2.7 million bribe, is pictured after the High Council of Justice granted permission for his custodial detention, Kyiv, capital of Ukraine.",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 21 2024 23:12:39 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 21 2024 23:12:39 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cx88lve88wyo",
+            "id": "urn:bbc:optimo:asset:cx88lve88wyo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Thousands flee Russian offensive in Kharkiv region",
+            "summary": "Fighting around Ukraine\u2019s second largest city has so far displaced around 14,000 people.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/12c0/live/d92b8090-1764-11ef-806c-bf47bb1274cd.jpg",
+                        "altText": " A woman and her daughter evacuated from a northern border settlement of Kharkiv Oblast wait in an evacuation bus for departure to Kharkiv city",
+                        "width": 949,
+                        "height": 533
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 21 2024 13:45:01 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 21 2024 13:45:01 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cw449e92lpxo",
+            "id": "urn:bbc:optimo:asset:cw449e92lpxo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukrainian cancer survivor holds first exhibition ",
+            "summary": "Lena Archbold hopes the exhibition will raise money for her home country and help friends still there. ",
+            "topics": [
+                "Wear"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/9f51/live/efe20d00-16dc-11ef-bf4c-d3aa639a5294.jpg",
+                        "altText": "Lena Archbold standing in front of lots of fabrics",
+                        "width": 1725,
+                        "height": 971
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 21 2024 05:16:49 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 21 2024 05:16:49 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/clmml2xp2n5o",
+            "id": "urn:bbc:optimo:asset:clmml2xp2n5o",
+            "type": "article",
+            "subtype": "news",
+            "title": "110 Ulez-scrapped vehicles are donated to Ukraine",
+            "summary": "Vehicles that do not meet Ulez emission rules can be donated to Ukraine instead of being scrapped.",
+            "topics": [
+                "London"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d3f4/live/7a65b5d0-169c-11ef-a5f9-c9e97f2e93cf.jpg",
+                        "altText": "Vehicles that have been donated to Ukraine",
+                        "width": 2087,
+                        "height": 1174
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 20 2024 11:27:47 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 20 2024 11:27:47 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/articles/cn007p39zdzo",
+            "id": "urn:bbc:optimo:asset:cn007p39zdzo",
+            "type": "article",
+            "subtype": "news",
+            "title": "War and popularity keep Zelensky in power despite term expiring",
+            "summary": "Martial law and a desire for stability keeps the Ukrainian leader in power without new elections.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7660/live/37954030-168e-11ef-9b12-1ba8f95c4917.jpg",
+                        "altText": "Mr Zelensky shows his ballot to the media at a polling station during the second round of Ukraine's presidential election in Kyiv in April 2019",
+                        "width": 1024,
+                        "height": 683
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 20 2024 10:09:55 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 20 2024 10:09:55 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cz5drkr8l1ko",
+            "id": "urn:bbc:optimo:asset:cz5drkr8l1ko",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia's glide bombs devastating Ukraine's cities on the cheap",
+            "summary": "Russia is increasingly using budget \"glide bombs\" to advance its offensive in Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/eae4/live/47017f50-147e-11ef-9b12-1ba8f95c4917.jpg",
+                        "altText": " Rescue workers respond at the site on a Russian airstrike of a multi-storey residential building with a UMPB D-30 glide bomb on May 14, 2024 in Kharkiv, Ukraine",
+                        "width": 1024,
+                        "height": 683
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun May 19 2024 07:05:28 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun May 19 2024 07:05:28 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/crgy4gkqkddo",
+            "id": "urn:bbc:optimo:asset:crgy4gkqkddo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia could increase Ukraine attacks, says Zelensky",
+            "summary": "Moscow continues to make military gains in the Kharkiv region as Ukraine struggles with resources.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1512/live/17b3e4e0-1505-11ef-a915-1749a1611cb2.jpg",
+                        "altText": "Teenagers look at smoke which rises after a Russian missile strike",
+                        "width": 5248,
+                        "height": 2952
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat May 18 2024 11:24:02 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat May 18 2024 11:24:02 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-69025424",
+            "id": "urn:bbc:cps:curie:asset:6a281b39-2781-4575-953c-35bbca9e58a4",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia not seeking Kharkiv capture, claims Putin",
+            "summary": "Russia's president says he is not after Ukraine's second-largest city - but wants to create a \"security zone\".",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/17F36/production/_133320189_b2f01c70b355f5abc2e14a117f811133bbe99e4e-1.jpg",
+                        "altText": "Russian President Vladimir Putin speaks in Harbin, China. Photo: 17 May 2024",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 17 2024 12:13:29 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 17 2024 14:16:03 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c2jd3k1zyjro",
+            "id": "urn:bbc:optimo:asset:c2jd3k1zyjro",
+            "type": "article",
+            "subtype": "news",
+            "title": "Key weeks ahead for Russia\u2019s war in Ukraine",
+            "summary": "Russia has launched a push north of Kharkiv but its ultimate goal is so far unclear.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1fe7/live/142fd2a0-1412-11ef-bee9-6125e244a4cd.jpg",
+                        "altText": "Ukrainian soldiers fire a mortar. File photo",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 16 2024 23:39:31 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 17 2024 11:32:19 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-60506682",
+            "id": "urn:bbc:cps:curie:asset:0d6ce4fa-7a33-416a-a979-8b316d2329ae",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine war in maps: Russian attacks near Kharkiv",
+            "summary": "Russian forces make \"tactically significant advances\" near Kharkiv, with the war now in its third year.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/AAFA/production/_133307734_promo-nc.png",
+                        "altText": "Map showing front line",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Feb 24 2022 14:20:31 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 17 2024 09:59:45 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/60571253",
+            "id": "urn:bbc:cps:curie:asset:bee4b7ed-617d-46c8-bc96-536169f18f50",
+            "type": "article",
+            "subtype": "news",
+            "title": "How is China helping out sanctioned Russia?",
+            "summary": "Vladimir Putin visits Beijing this week, as it faces accusations of supporting Moscow's war in Ukraine.",
+            "topics": [
+                "Reality Check"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/163E7/production/_133311119_gettyimages-1730510356.jpg",
+                        "altText": "Russia's President Vladimir Putin and Chinese President Xi Jinping shake hands during the opening ceremony of the third Belt and Road Forum in Beijing on October 18, 2023.",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Mar 04 2022 01:27:47 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 17 2024 08:55:41 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cn037ry3r3zo",
+            "id": "urn:bbc:optimo:asset:cn037ry3r3zo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine's defence lines stretched as Russian troops advance",
+            "summary": "The BBC's Jonathan Beale joins Ukrainian forces in Kharkiv as they try to shore up a weakened frontline.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/376b/live/37997c90-1436-11ef-9b12-1ba8f95c4917.jpg",
+                        "altText": "Ukrainian soldier at the front",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 17 2024 04:59:01 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 17 2024 04:59:01 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c4n1nqrv2e8o",
+            "id": "urn:bbc:optimo:asset:c4n1nqrv2e8o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Kharkiv fighting difficult but under control - Zelensky",
+            "summary": "Ukraine is halting further Russian advances after suffering its largest territorial loss for 18 months. ",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d1eb/live/9942e290-137a-11ef-9d53-33bd5ef92b61.jpg",
+                        "altText": "Ukraine's President Volodymyr Zelensky at a meeting with top military officials as he visits Kharkiv region, 16 May 2024",
+                        "width": 2004,
+                        "height": 1127
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 16 2024 12:34:53 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 16 2024 18:25:38 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/articles/c1030vvy0mzo",
+            "id": "urn:bbc:optimo:asset:c1030vvy0mzo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine troops pull back in Kharkiv after Russia offensive",
+            "summary": "Ukraine says it has moved troops to \"advantageous positions\" as Russia intensifies its attacks on the region.",
+            "topics": [
+                "World"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ce8a/live/35946ca0-12a8-11ef-b9d8-4f52aebe147d.jpg",
+                        "altText": "Police evacuate civilians in the Kharkiv region",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 15 2024 09:42:25 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 15 2024 22:03:05 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-69016941",
+            "id": "urn:bbc:cps:curie:asset:0742975b-4292-4900-b00e-73111ff28358",
+            "type": "article",
+            "subtype": "news",
+            "title": "US 'rushing' weapons to front lines in Ukraine",
+            "summary": "Blinken announces $2bn to speed up deliveries to the battlefield in face of Russian advances.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/091B/production/_133313320_3a2f9879e40863ba78957efd4bee80c1e0451a770_0_5573_38251000x686.jpg",
+                        "altText": "Ukrainian Foreign Minister Dmytro Kuleba (C-L) and US Secretary of State Antony Blinken (C-R) talk during their walk in downtown Kyiv, Ukraine, 15 May 2024",
+                        "width": 999,
+                        "height": 562
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 15 2024 15:51:39 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 15 2024 15:51:39 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-asia-china-69013520",
+            "id": "urn:bbc:cps:curie:asset:1edb04a7-f698-47fd-8572-b3e49ca47949",
+            "type": "article",
+            "subtype": "news",
+            "title": "What is Xi Jinping prepared to pay for Putin\u2019s war?",
+            "summary": "China is a vital ally, but Mr Xi is facing increasing pressure to distance himself from his \"dear friend\".",
+            "topics": [
+                "China"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2BD5/production/_133312211_gettyimages-1730512638-2.jpg",
+                        "altText": "China's President Xi Jinping (R) and Russia's President Vladimir Putin attend the opening ceremony of the third Belt and Road Forum for International Cooperation at the Great Hall of the People in Beijing on October 18, 2023.",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 15 2024 11:09:47 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 15 2024 11:09:47 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-69013071",
+            "id": "urn:bbc:cps:curie:asset:f9e8f152-4c80-4be6-bdc8-cf1264fd838d",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Blinken shows off guitar-playing talents on Ukraine trip",
+            "summary": "The US Secretary of State Antony Blinken has played a rendition of Neil Young's Rockin' in the Free World with a local band on his surprise trip to Kyiv.",
+            "topics": [
+                "World"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/B98D/production/_133310574_blinken.jpg",
+                        "altText": "Antony Blinken plays guitar in Kyiv",
+                        "width": 1428,
+                        "height": 803
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 14 2024 21:09:26 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 21:09:26 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c0344qev91do",
+            "id": "urn:bbc:optimo:asset:c0344qev91do",
+            "type": "article",
+            "subtype": "news",
+            "title": "Blinken visits during moment of peril for Ukraine",
+            "summary": "The front line has turned from a relative stalemate to a major Russian offensive in a week.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/70b6/live/d5827000-1225-11ef-9b3a-23bcecb24897.jpg",
+                        "altText": "Ukrainian soldier in uniform helping a woman in tears evacuate from village in Kharkiv",
+                        "width": 2728,
+                        "height": 1535
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 14 2024 18:42:25 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 18:42:25 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-69011247",
+            "id": "urn:bbc:cps:curie:asset:b27e2459-19aa-43ad-8024-168eeed819c9",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia must pay for Ukraine rebuild, Blinken says",
+            "summary": "The top US diplomat vows to \"seize\" Russian assets in the US to fund rebuilding parts of Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/90ED/production/_133310173_mediaitem133310172.jpg",
+                        "altText": "Zelensky and Blinken meet in Kyiv",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 14 2024 17:26:41 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 18:17:43 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-69007468",
+            "id": "urn:bbc:cps:curie:asset:47c15046-2927-416e-98d5-a0bddb31804d",
+            "type": "article",
+            "subtype": "news",
+            "title": "Putin makes ex-security council chief Kremlin aide",
+            "summary": "Nikolai Patrushev, 72, is replaced as head of Russia's Security Council by Sergei Shoigu.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/13470/production/_133306987_gettyimages-474781176.jpg",
+                        "altText": "Vladimir Putin sits by Nikolai Patrushev",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 14 2024 11:19:57 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 11:19:57 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-62002218",
+            "id": "urn:bbc:cps:curie:asset:c035710c-6ec9-40f3-ad86-375e1146d289",
+            "type": "article",
+            "subtype": "news",
+            "title": "What weapons are being supplied to Ukraine?",
+            "summary": "The first weapons from a US military aid package worth $61bn have started to arrive in Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/14E7F/production/_128413658_tank_promo-nc.png",
+                        "altText": "An illustration of a tank with the Ukrainian flag in the background",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Jul 01 2022 16:11:53 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 08:55:50 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-69006673",
+            "id": "urn:bbc:cps:curie:asset:06098b8d-0a42-4430-b8f9-fa6452273115",
+            "type": "article",
+            "subtype": "news",
+            "title": "Blinken in Ukraine as US weapons reach front line",
+            "summary": "America's top diplomat will deliver a message of \"strong reassurance... in a difficult moment\", a US official says.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2490/production/_133306390_blinken.jpg",
+                        "altText": "Ukrainian servicemen near Donetsk on 12 May 2024",
+                        "width": 1000,
+                        "height": 562
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 14 2024 02:31:31 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 14 2024 02:31:31 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/uk-politics-69004980",
+            "id": "urn:bbc:cps:curie:asset:5bd65ba2-e228-46a4-9194-82d55bd9837f",
+            "type": "article",
+            "subtype": "news",
+            "title": "Labour pledges 'iron-clad commitment' for Ukraine",
+            "summary": "Shadow Foreign Secretary David Lammy and Shadow Defence Secretary John Healey visited Ukraine's capital Kyiv.",
+            "topics": [
+                "UK Politics"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/D0CA/production/_133305435_lammyhealey.jpg",
+                        "altText": "David Lammy and John Healey in Kyiv, Ukraine",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 13 2024 21:30:57 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 13 2024 21:30:57 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/crgyymn8y3ro",
+            "id": "urn:bbc:optimo:asset:crgyymn8y3ro",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia says troops enter border town near Kharkiv",
+            "summary": "Ukraine is concerned about what could happen if Russian troops get within artillery range of Kharkiv.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0443/live/7cfa8830-110f-11ef-a190-bb979758150a.jpg",
+                        "altText": "Military paramedics treat a wounded Ukrainian service member, amid Russia's attack on Ukraine, near the town of Vovchansk",
+                        "width": 3757,
+                        "height": 2113
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 13 2024 10:00:34 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 13 2024 20:31:05 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-69000698",
+            "id": "urn:bbc:cps:curie:asset:1359334b-d937-425a-8171-acd0e1c30879",
+            "type": "article",
+            "subtype": "news",
+            "title": "Putin removes defence minister who led war campaign",
+            "summary": "Sergei Shoigu, a close ally of the president, will be replaced by Deputy Prime Minister Andrei Belousov.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/17E8/production/_133302160_gettyimages-2025763634.jpg",
+                        "altText": "Russian President Vladimir Putin (L) and Sergei Shoigu",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun May 12 2024 19:03:12 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 13 2024 11:22:03 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c72p0xx410xo",
+            "id": "urn:bbc:optimo:asset:c72p0xx410xo",
+            "type": "article",
+            "subtype": "news",
+            "title": "'The Russians just walked in' - Ukrainian troops on latest incursion",
+            "summary": "The BBC's Jonathan Beale meets front-line soldiers battling Russia's new incursion in north-east Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/16be/live/7fb8b480-1064-11ef-82e8-cd354766a224.jpg",
+                        "altText": "Denys Yaroslavskyi",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun May 12 2024 14:23:00 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 13 2024 05:55:41 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68998913",
+            "id": "urn:bbc:cps:curie:asset:97a4ca83-42cd-4072-8cca-88eeeb6c4003",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia blames Ukraine after blast destroys apartments",
+            "summary": "At least two people are said to have been killed after a section of a 10-storey block collapsed in Belgorod.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/4588/production/_133300871_9e36a2b04e02d7bb8508bc1a57db65316c9628c8.jpg",
+                        "altText": "Emergency personnel climb on rubble after apartment collapse",
+                        "width": 2048,
+                        "height": 1152
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun May 12 2024 12:12:43 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun May 12 2024 17:07:14 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68998812",
+            "id": "urn:bbc:cps:curie:asset:5eb889d0-b449-4fa0-b02c-1b2549687645",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Russian apartments collapse after explosion",
+            "summary": "At least 17 people have been injured in Russia's city of Belgorod, near the border with Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1644A/production/_133301219_p0hxkk5b.jpg",
+                        "altText": "rescue services at scene of explosion",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun May 12 2024 14:03:00 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun May 12 2024 14:03:00 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68994877",
+            "id": "urn:bbc:cps:curie:asset:e851c3f6-ac2e-4887-9b8d-ddc392b24b69",
+            "type": "article",
+            "subtype": "news",
+            "title": "Hundreds flee Ukraine border area after Russia attack",
+            "summary": "Evacuations are under way in the Kharkiv area as fighting continues after Friday's surprise incursions.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/F1C1/production/_133298816_mediaitem133298815.jpg",
+                        "altText": "Serhii, a resident of Vovchansk shows his destroyed home",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat May 11 2024 11:10:05 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat May 11 2024 17:29:54 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c6pyv8q94g1o",
+            "id": "urn:bbc:optimo:asset:c6pyv8q94g1o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine says it repelled Russian bid to cross border",
+            "summary": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b2e2/live/7ecd9ee0-0ebc-11ef-8f3e-f3c169ee7041.jpg",
+                        "altText": "Firefighters work at a site of a Russian missile strike, amid Russia's attack on Ukraine, in Kharkiv, Ukraine May 10, 2024",
+                        "width": 993,
+                        "height": 558
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 10 2024 10:58:38 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 10 2024 22:05:40 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c4n1j0l8111o",
+            "id": "urn:bbc:optimo:asset:c4n1j0l8111o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Zelensky fires head of bodyguard after failed plot",
+            "summary": "No reason was given for Serhiy Rud's dismissal. He has led the president's security detail since 2019.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cde1/live/e9c79dd0-0ea9-11ef-8380-ed08c6be674e.jpg",
+                        "altText": "Head of the State Protection Department of Ukraine Serhii Rud (file pic)",
+                        "width": 1022,
+                        "height": 575
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 10 2024 09:12:08 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 10 2024 09:12:08 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-middle-east-68981084",
+            "id": "urn:bbc:cps:curie:asset:8dd1a0cf-75f5-4cf0-bd51-b9d1b75d0625",
+            "type": "article",
+            "subtype": "news",
+            "title": "Taylor Greene defiant after failing to oust Speaker",
+            "summary": "The House killed the far-right Republican's motion to remove Mike Johnson over support for Ukraine aid.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1318/production/_133288840_gettyimages-2151394233.jpg",
+                        "altText": "Marjorie Taylor Greene",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 08 2024 22:18:27 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 09 2024 16:14:49 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c89z22d3v5lo",
+            "id": "urn:bbc:optimo:asset:c89z22d3v5lo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Putin hails army 'heroes' and warns off West in WW2 parade",
+            "summary": "Russia's leader marks Victory Day by making clear the country's military is always on combat alert.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/37fb/live/84afff50-0df5-11ef-b9d8-4f52aebe147d.jpg",
+                        "altText": " Ceremonial soldiers parade during 79th anniversary of the Victory Day in Red Square in Moscow, Russia on May 09, 2024",
+                        "width": 1024,
+                        "height": 683
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 09 2024 11:50:44 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 09 2024 11:50:44 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c4n1y9zz8ydo",
+            "id": "urn:bbc:optimo:asset:c4n1y9zz8ydo",
+            "type": "article",
+            "subtype": "news",
+            "title": "EU moves to give profits from Russian assets to Ukraine",
+            "summary": "EU ambassadors have agreed in principle to use the profits from frozen Russian assets to help Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8847/live/017c1ab0-0d50-11ef-bee9-6125e244a4cd.jpg",
+                        "altText": "Ukrainian soldiers drive a tank",
+                        "width": 1024,
+                        "height": 683
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 08 2024 16:19:18 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 08 2024 16:19:18 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68976135",
+            "id": "urn:bbc:cps:curie:asset:21de8f2c-ef6f-4a0b-a16b-d05ffb9c2e89",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia ramps up attacks on Ukraine\u2019s power plants",
+            "summary": "BBC Verify has been tracking Russia's attacks on Ukraine\u2019s energy infrastructure.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1098A/production/_133287976_bbc_verify_976_promo_only.png",
+                        "altText": "Power plant in Kharkiv, a large portion of the building has been destroyed by a missile strike",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 08 2024 16:11:09 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 08 2024 16:11:09 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c1wxypwe9jxo",
+            "id": "urn:bbc:optimo:asset:c1wxypwe9jxo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine hit by 'massive' attack on energy grid",
+            "summary": "The attacks come as Ukraine marks a major national holiday celebrating the defeat of Nazi Germany. ",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c9a8/live/c6ec0030-0d1e-11ef-bee9-6125e244a4cd.jpg",
+                        "altText": "Ukrainian forces inspect a damaged car",
+                        "width": 3680,
+                        "height": 2069
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 08 2024 09:44:14 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 08 2024 11:46:09 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68964677",
+            "id": "urn:bbc:cps:curie:asset:fd10564c-5a40-4a1b-9842-895aa1000875",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia's modern-day tsar sworn in for fifth term",
+            "summary": "Russia's president is sworn in for another six years, with no checks and balances on his power.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3581/production/_133279631_4cca387ab22d35dd5f779b0e9319b893d80cfa1d0_468_6769_38081000x563-1.jpg",
+                        "altText": "Russian President Vladimir Putin walks before his inauguration ceremony at the Kremlin in Moscow, Russia May 7, 2024",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue May 07 2024 00:05:26 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue May 07 2024 17:21:20 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cq5npwdv3wzo",
+            "id": "urn:bbc:optimo:asset:cq5npwdv3wzo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia to hold nuclear drills following 'threats' from West",
+            "summary": "Russia will hold tactical nuclear weapons drills in response to recent comments by France and the UK, the Kremlin said.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/cf6d/live/584ce800-0bc6-11ef-8434-31007bf4cd8b.jpg",
+                        "altText": "Russian Yars nuclear missile complex",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 06 2024 16:38:54 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 06 2024 16:38:54 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cmldrdl0mnmo",
+            "id": "urn:bbc:optimo:asset:cmldrdl0mnmo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Seven dead in attack on Russia's Belgorod region",
+            "summary": "The governor of the border region says 35 people were also injured when a drone strike hit minibuses.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ebf1/live/4fcc82d0-0b8a-11ef-82e8-cd354766a224.jpg",
+                        "altText": "A destroyed minibus",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 06 2024 09:52:44 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 06 2024 14:50:27 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68932127",
+            "id": "urn:bbc:cps:curie:asset:71aaf3a7-443b-40d7-b1f2-3b48e457a039",
+            "type": "article",
+            "subtype": "news",
+            "title": "Weary troops stuck on front line as Ukraine struggles to find manpower",
+            "summary": "Ukraine is outgunned and outmanned by the Russian invaders, who are inching closer.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/F6C7/production/_133257136_photo26.04.2024110555.jpg",
+                        "altText": "Radio operator Oleksandr",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon May 06 2024 05:08:29 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon May 06 2024 05:08:29 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-europe-68949298",
+            "id": "urn:bbc:cps:curie:asset:b9070265-b9cc-4029-9868-ca8e9be1859c",
+            "type": "article",
+            "subtype": "news",
+            "title": "Cubans lured to Russian army by high pay and passports",
+            "summary": "The number of Cubans recruited to fight in Ukraine is thought to be in the hundreds.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/38FA/production/_133268541_cubans1.jpg",
+                        "altText": "Hundreds of Cubans are reported to have joined the Russian army",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat May 04 2024 23:58:07 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat May 04 2024 23:58:07 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-asia-68933778",
+            "id": "urn:bbc:cps:curie:asset:3581d481-d6c8-40ad-ae3a-8cf349dab0f1",
+            "type": "article",
+            "subtype": "news",
+            "title": "North Korean weapons are killing Ukrainians. The implications are far bigger",
+            "summary": "A missile that crashed in Kharkiv shows the surprising scale at which Pyongyang's weapons are used.",
+            "topics": [
+                "Asia"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8E2B/production/_133259363_thumbnailnewnorth_korea_weapons_to_russia_976x549_index_v2promo.png",
+                        "altText": "Kim Jong Un and Vladimir Putin",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat May 04 2024 22:06:02 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat May 04 2024 22:06:02 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c163kp93l6po",
+            "id": "urn:bbc:optimo:asset:c163kp93l6po",
+            "type": "article",
+            "subtype": "news",
+            "title": "Kyiv can use British weapons inside Russia - Cameron",
+            "summary": "UK Foreign Secretary Lord Cameron says it is up to Ukraine to decide how to use British arms.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/bf42/live/c06cf450-0934-11ef-9e6c-099fc4d96d44.jpg",
+                        "altText": "Foreign Secretary Lord David Cameron meeting Ukrainian President Volodymyr Zelensky in Kyiv, Ukraine",
+                        "width": 937,
+                        "height": 527
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 03 2024 12:00:32 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 03 2024 16:18:14 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c4n1rxqnqydo",
+            "id": "urn:bbc:optimo:asset:c4n1rxqnqydo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Photography captures Ukraine's fight for freedom",
+            "summary": "The images will showcase the impact the war is having on Ukrainians and their communities.",
+            "topics": [],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c24a/live/8d7ae4a0-0897-11ef-ba53-bb3837db9ae5.jpg",
+                        "altText": "Roman Naumov",
+                        "width": 3010,
+                        "height": 1694
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri May 03 2024 02:17:39 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri May 03 2024 02:17:39 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/cne900k4wvjo",
+            "id": "urn:bbc:optimo:asset:cne900k4wvjo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia blamed for GPS interference affecting flights in Europe",
+            "summary": "Experts say Russia has been jamming GPS signals in certain European regions, leading to disruption for civilian aircraft.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f7a6/live/326e23a0-0866-11ef-b9d8-4f52aebe147d.jpg",
+                        "altText": "A Finnair plane (file pic)",
+                        "width": 4842,
+                        "height": 2946
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 02 2024 10:41:17 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 02 2024 10:41:17 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68941220",
+            "id": "urn:bbc:cps:curie:asset:4ac8454d-70e8-4092-b50b-1a315008bed6",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia using choking agents in Ukraine, US says",
+            "summary": "The state department says Moscow has used a World War One-era weapon to \"dislodge\" Ukrainian troops.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2A8F/production/_133259801_7f328f239c84982c35a64bd681bf21089985fc8e.jpg",
+                        "altText": "Ukrainian troops taking part in chemical weapon hazard drills",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 02 2024 08:44:15 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 02 2024 09:54:52 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c51n9keel8jo",
+            "id": "urn:bbc:optimo:asset:c51n9keel8jo",
+            "type": "article",
+            "subtype": "news",
+            "title": "Couple travel to Ukraine with donated vehicle",
+            "summary": "A couple from Glastonbury deliver a donated pick-up truck to the frontline in Ukraine.",
+            "topics": [
+                "Somerset"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/c86c/live/97cd7be0-06dd-11ef-aeef-63c4b5191f29.jpg",
+                        "altText": "Katie and Ed standing in front of the vehicle",
+                        "width": 1815,
+                        "height": 1021
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 02 2024 08:03:24 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 02 2024 08:03:24 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-england-derbyshire-68930272",
+            "id": "urn:bbc:cps:curie:asset:1e7954f1-889e-4d67-8d16-d2fe41aa32af",
+            "type": "article",
+            "subtype": "news",
+            "title": "Man's mission to aid autistic people in Ukraine war",
+            "summary": "David Higgs MBE, wants to raise \u00a35,000 to buy ear defenders for autistic people in Ukraine.",
+            "topics": [
+                "Derby"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/F8BB/production/_133257636_autismukraine.jpg",
+                        "altText": "David Higgs",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 02 2024 08:02:34 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 02 2024 08:02:34 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-england-nottinghamshire-68938081",
+            "id": "urn:bbc:cps:curie:asset:58cd29e9-6a2a-40ad-8b90-076ceee4175d",
+            "type": "article",
+            "subtype": "news",
+            "title": "Volunteer group recognised by Ukrainian government",
+            "summary": "City Hub Ukraine was set up in 2022 to send aid to people in Ukraine amid the war with Russia.",
+            "topics": [
+                "Nottingham"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5325/production/_133258212_untitleddesign-3.png",
+                        "altText": "City Hub Ukraine",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 02 2024 06:32:39 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu May 02 2024 06:32:39 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-europe-68936842",
+            "id": "urn:bbc:cps:curie:asset:428bb941-95bb-4583-bdcb-11b21965c28a",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukrainian, 98, tells BBC of six-mile walk to escape Russians",
+            "summary": "Lidiia Lomikovska describes how she made the journey in her slippers with a plank of wood for support.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/FE29/production/_133256056_capture2.png",
+                        "altText": "98-year-old Lidiia Lomikovska",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 01 2024 16:32:52 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 01 2024 16:32:52 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68937160",
+            "id": "urn:bbc:cps:curie:asset:334e7a1d-0b2b-4bfd-a777-d7d0feb08fe7",
+            "type": "article",
+            "subtype": "news",
+            "title": "Marjorie Taylor Greene pushes to remove House speaker",
+            "summary": "Mr Johnson's support for a $61bn military aid package to Ukraine is one reason for the announcement.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/E01F/production/_133257375_9eb422ee03695bbaaf5e00483aa5e3b017e6bda6.jpg",
+                        "altText": "Mike Johnson at lectern",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 01 2024 14:33:31 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 01 2024 15:09:23 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68934337",
+            "id": "urn:bbc:cps:curie:asset:0018f265-5144-41cf-9192-348c648635dc",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Russians flock to see captured Western tanks",
+            "summary": "The exhibition was on display in Moscow's Victory Park, it included British hardware given to Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/13EA7/production/_133257518_p0hvcgfw.jpg",
+                        "altText": "A little girl on a man's shoulders next to a tank",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 01 2024 13:50:17 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 01 2024 13:50:17 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68934205",
+            "id": "urn:bbc:cps:curie:asset:7abcc638-1e27-438c-b2c4-f323074fa8b8",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia flaunts Western tanks captured in war in Ukraine",
+            "summary": "The display seeks to energise Russians ahead of the country's victory day celebrations on 9 May.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7AE9/production/_133256413_husky.jpg",
+                        "altText": "British Husky in Moscow",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed May 01 2024 12:20:38 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed May 01 2024 12:20:38 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68933018",
+            "id": "urn:bbc:cps:curie:asset:e14e0f9e-9ca8-48a3-b832-02bdcdf87dee",
+            "type": "article",
+            "subtype": "news",
+            "title": "Democrats break tradition to back Republican speaker",
+            "summary": "House Democrats say they will support their Republican opponent as he faces removal by fringe party members.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1D6F/production/_133253570_johnson.jpg",
+                        "altText": "House Speaker Mike Johnson seen during a news conference",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue Apr 30 2024 22:48:30 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 30 2024 22:48:30 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68923225",
+            "id": "urn:bbc:cps:curie:asset:bbb36dd8-d8ee-486d-b47a-1a43faf7a21c",
+            "type": "article",
+            "subtype": "news",
+            "title": "Zelensky urges faster delivery of arms to frontline",
+            "summary": "The call from Ukraine's leader comes as Russia intensifies its offensive in the east.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2EC6/production/_133247911_2.jpg",
+                        "altText": "Ukrainian President Volodymyr Zelensky",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 29 2024 16:04:50 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 29 2024 21:53:58 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-68924761",
+            "id": "urn:bbc:cps:curie:asset:83b15b5d-f21e-45c5-b7c7-afa16a8e19bb",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Watch: Sophie meets Zelensky on Kyiv visit",
+            "summary": "The Duchess of Edinburgh is the first member of the Royal Family to visit Ukraine.",
+            "topics": [
+                "UK"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/813C/production/_133248033_ec5b636ae8e25b5e534570d6e61f1fa43303df93.jpg",
+                        "altText": "Sophie met with Ukraine's President Volodymyr Zelensky",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 29 2024 21:46:47 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 29 2024 21:46:47 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-68922333",
+            "id": "urn:bbc:cps:curie:asset:6ff0dd2e-b5cb-4836-8232-d56031628980",
+            "type": "article",
+            "subtype": "news",
+            "title": "Sophie makes surprise royal visit to Ukraine",
+            "summary": "The Duchess of Edinburgh shows support for Ukrainian families who have suffered in Russia's invasion.",
+            "topics": [
+                "UK"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0FF4/production/_133248040_ff5e184ae1c66a89000a536119ed1d181b6dfd05.jpg",
+                        "altText": "Sophie and Olena Zelenska",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 29 2024 19:31:24 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 29 2024 21:40:23 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68916317",
+            "id": "urn:bbc:cps:curie:asset:6667e334-c1c2-40b1-ac04-ffbe1303dbaf",
+            "type": "article",
+            "subtype": "news",
+            "title": "Frontline has worsened for Ukraine, army chief says",
+            "summary": "Oleksandr Syrskyi says Ukrainian forces have withdrawn from positions in eastern Donetsk.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6D6E/production/_133241082_mediaitem133241081.jpg",
+                        "altText": "Ukrainian servicemen ride on an armored personnel carrier (APC) in a field near Chasiv Yar",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun Apr 28 2024 15:39:59 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun Apr 28 2024 15:39:59 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-us-canada-68901820",
+            "id": "urn:bbc:cps:curie:asset:fe4fd2b5-ba7e-45e4-95cb-69b6f6f158ba",
+            "type": "article",
+            "subtype": "news",
+            "title": "Pentagon to 'rush' Patriot missiles to Ukraine",
+            "summary": "The $6bn package includes air defence munitions but not the missile systems Ukraine says it badly needs.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/B4B7/production/_133236264_gettyimages-2149109924.jpg",
+                        "altText": "A launcher of a Patriot missile system of the Bundeswehr, the German armed forces, stands during the \"National Guardian\" military exercise at the Bundeswehr's tank training grounds on April 18, 2024 in Munster, Germany",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 26 2024 17:59:30 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat Apr 27 2024 08:27:26 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68903480",
+            "id": "urn:bbc:cps:curie:asset:ea75177a-84bb-412c-b9e8-4dbb89efb583",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine's air defence plea falls short in southern Europe",
+            "summary": "Greece says it cannot spare its defence systems and Spain reportedly says it can only provide missiles.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/D8ED/production/_133233555_562fbdd1cc890810e363a45207c6e4f4b9a5784e0_279_5472_30781000x563.jpg",
+                        "altText": "Serviceman patrols in front of the Patriot air defence system during Polish military training on the missile systems at the airport in Warsaw, Poland February 7, 2023",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 26 2024 11:46:28 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri Apr 26 2024 17:06:02 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-asia-china-68905475",
+            "id": "urn:bbc:cps:curie:asset:8e6a5c5d-2e94-4eee-85c5-40fee605eedd",
+            "type": "article",
+            "subtype": "news",
+            "title": "Blinken says China helping fuel Russian threat to Ukraine",
+            "summary": "The US Secretary of State was speaking to the BBC at the end of a three-day trip to China.",
+            "topics": [
+                "China"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/893D/production/_133233153_mediaitem133233152.jpg",
+                        "altText": "Antony Blinken",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 26 2024 12:47:56 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri Apr 26 2024 15:07:19 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68893196",
+            "id": "urn:bbc:cps:curie:asset:6c6fa3a3-09e2-444a-96bc-617030596138",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine uses longer-range US missiles for first time",
+            "summary": "Missiles secretly delivered this month have been used to strike Russian targets in Crimea, US media say.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/CCDA/production/_133224425_reumissile.jpg",
+                        "altText": "An ATACMS missile, is fired during a joint military training between US and South Korea",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 24 2024 18:51:47 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 25 2024 10:12:08 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68881833",
+            "id": "urn:bbc:cps:curie:asset:5b3b56b1-2de5-4ece-a407-43c22bc9c4ae",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia or EU? Controversial bill draws Georgians on to streets",
+            "summary": "Thousands of Georgians have been protesting against a new bill that they claim will crush dissent.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/15D76/production/_133226498_tbilisi-index-reuters.jpg",
+                        "altText": "Protesters in Georgia hold signs in protest at the draft bill on foreign agents",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 25 2024 00:40:05 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 25 2024 00:40:05 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-politics-68893859",
+            "id": "urn:bbc:cps:curie:asset:1d5386e6-7a3d-4ad9-b419-5c14d4bd4d2b",
+            "type": "article",
+            "subtype": "news",
+            "title": "Hunt defends job cuts to increase defence spending",
+            "summary": "The chancellor says cutting services will cost \"a great deal less\" than allowing Russia to succeed in Ukraine.",
+            "topics": [
+                "UK Politics"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5106/production/_133224702_a1.jpg",
+                        "altText": "Jeremy Hunt",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 24 2024 21:00:54 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 21:00:54 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68872783",
+            "id": "urn:bbc:cps:curie:asset:41dc9777-d55b-47e6-9252-b22927059b11",
+            "type": "article",
+            "subtype": "news",
+            "title": "What $61bn US aid boost could mean for Ukraine",
+            "summary": "After weeks of Russian advances, there are three areas where Ukraine could now strengthen its defences.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/FEE8/production/_128365256_weapons_promo_v2.png",
+                        "altText": "promo",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 22 2024 10:30:34 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 20:35:02 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68885868",
+            "id": "urn:bbc:cps:curie:asset:bd1dde13-b917-457b-ac18-86642e979802",
+            "type": "article",
+            "subtype": "news",
+            "title": "US to send new Ukraine aid right away, Biden says",
+            "summary": "The president says weapons and equipment will be sent to Kyiv \"in the next few hours\", after approval from Congress.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/157D6/production/_133222088_gettyimages-2147974786.jpg",
+                        "altText": "Ukrainian soldiers in the Kharkiv region fire at a Russian position with a howitzer",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 24 2024 01:46:48 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 15:06:48 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-politics-68889470",
+            "id": "urn:bbc:cps:curie:asset:d613bcb0-0b05-4dbf-bc8d-046daf44bde3",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "SNP quizzes deputy PM on arms sales to Israel",
+            "summary": "Mhairi Black says the discovery of mass graves of Palestinians should be treated as a \"war crime\".",
+            "topics": [
+                "UK Politics"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/17B62/production/_133222179_p0hssnqm.jpg",
+                        "altText": "Mhairi Black",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 24 2024 11:57:27 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 11:57:27 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-europe-68886406",
+            "id": "urn:bbc:cps:curie:asset:79c81c00-19ec-473c-a843-0d374b300366",
+            "type": "article",
+            "subtype": "news",
+            "title": "Top Russian defence official accused of taking bribes",
+            "summary": "Deputy Defence Minister Timur Ivanov is remanded in custody in a rare case against a high-ranking official.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/86D0/production/_133221543_a0393f96f302e5a82f4bf40284cb5a4d09f275200_114_1768_9941768x994-1.jpg",
+                        "altText": "Timur Ivanov in court",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue Apr 23 2024 23:24:34 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 10:54:04 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68888835",
+            "id": "urn:bbc:cps:curie:asset:4f8a7c4d-cae0-4672-b686-73d40820ae27",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Huge fire rages at Russian oil facility",
+            "summary": "Ukrainian sources said the drones hit two facilities in the Smolensk region.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/184AE/production/_133220599_p0hsr6ry.jpg",
+                        "altText": "Huge fire at an oil facility in Russian town of Yartsevo",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 24 2024 09:15:22 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 24 2024 09:15:22 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-18023383",
+            "id": "urn:bbc:cps:curie:asset:dd85fb85-dd68-7548-beb4-f0ef76c67c1e",
+            "type": "article",
+            "subtype": "news",
+            "title": "What is Nato and how much do members spend on defence?",
+            "summary": "Sweden has joined the military alliance Nato, which is bolstering its defences against Russia.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/AFC1/production/_132739944_gettyimages-1241249814.jpg",
+                        "altText": "A Swedish soldier mans a machine gun on a boat during NATO military drills n the Baltic Sea, 2022",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu May 10 2012 14:29:05 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 23 2024 15:37:45 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68880085",
+            "id": "urn:bbc:cps:curie:asset:016372e1-15cb-46b8-97d0-d45d2a014135",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine tightens pressure on fighting age men abroad",
+            "summary": "Ukraine suspends consular services for men aged 18 to 60 as it aims to boost numbers in the military.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3DE1/production/_133214851_gettyimages-2144468348.jpg",
+                        "altText": "Young recruits undergo military training in the form of an obstacle course at the recruiting center in Kyiv",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue Apr 23 2024 13:24:23 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 23 2024 13:24:23 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/articles/c25rp99pgn3o",
+            "id": "urn:bbc:optimo:asset:c25rp99pgn3o",
+            "type": "article",
+            "subtype": "news",
+            "title": "Largest UK fire engine aid convoy heads to Ukraine",
+            "summary": "A convoy including 20 fire engines will leave Kent and carry more than 2,800 pieces of equipment.",
+            "topics": [
+                "Kent"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/147b/live/c32f0220-013f-11ef-9d91-5f9fdc721462.jpg",
+                        "altText": "Chris Philp MP with representatives from NFCC, National Resilience, FIRE AID, Fire Industry Association, and Kent Fire and Rescue Service",
+                        "width": 5712,
+                        "height": 3213
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue Apr 23 2024 11:06:43 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 23 2024 11:06:43 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-politics-68878627",
+            "id": "urn:bbc:cps:curie:asset:a8c06a40-cb4f-4826-8859-5d6fbc36003e",
+            "type": "article",
+            "subtype": "news",
+            "title": "Sunak to pledge \u00a3500m more to support Ukraine",
+            "summary": "The prime minister is travelling to Poland and Germany, highlighting an additional \u00a3500m to Ukraine.",
+            "topics": [
+                "UK Politics"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/FE11/production/_133214056_e220560ce7598df03cf329d0d17df2b2cff1ec98397_46_4555_25621000x563.jpg",
+                        "altText": "Prime Minister Rishi Sunak with President Volodymyr Zelensky in January",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 22 2024 21:34:05 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 23 2024 10:52:24 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68874906",
+            "id": "urn:bbc:cps:curie:asset:bdadb164-93fd-4f65-a910-26f2e1e7a763",
+            "type": "article",
+            "subtype": "news",
+            "title": "Biden to 'quickly' supply new military aid to Ukraine",
+            "summary": "The US president says he will send \"significant\" support to Kyiv if senators pass a new aid deal on Tuesday.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/123EB/production/_133213747_gettyimages-2147906585.jpg",
+                        "altText": "Joe Biden",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 22 2024 19:26:14 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 22 2024 19:26:14 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68877813",
+            "id": "urn:bbc:cps:curie:asset:1f11b29f-6816-47d1-8722-e507f2df7a40",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "TV tower breaks in half after strike on Ukraine",
+            "summary": "The local military says that digital TV has been cut off in the surrounding area.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1DC5/production/_133212670_p0hsfgnx.jpg",
+                        "altText": "TV tower collapsing with plume of smoke above it",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 22 2024 16:58:54 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 22 2024 16:58:54 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68874019",
+            "id": "urn:bbc:cps:curie:asset:fa7a36df-8d74-4881-a7c4-ced906f6853a",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russia defiant over new US aid to Ukraine",
+            "summary": "Pro-Kremlin media and Russian officials claim America is \"getting dragged into\" a war it will lose.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/156F9/production/_133210878_gettyimages-1247485704.jpg",
+                        "altText": "Ukrainian protestors in front of the White House",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Mon Apr 22 2024 12:18:12 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Mon Apr 22 2024 12:18:12 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-us-canada-68848277",
+            "id": "urn:bbc:cps:curie:asset:64aa05dc-2ef8-4b3e-a42f-ed132c64dae3",
+            "type": "article",
+            "subtype": "news",
+            "title": "US House approves crucial $61bn war aid for Ukraine",
+            "summary": "The vote will be closely watched in Kyiv, which has warned of an urgent need for more military support. ",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/10B62/production/_133205486_capture.png",
+                        "altText": "Ukraine soldiers in a training exercise",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 19 2024 08:48:32 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun Apr 21 2024 16:13:37 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68868399",
+            "id": "urn:bbc:cps:curie:asset:fe4294e2-8c36-4833-9143-8cf541f3912d",
+            "type": "article",
+            "subtype": "news",
+            "title": "US aid package could help Kyiv slow Russia\u2019s advance",
+            "summary": "The $61bn (\u00a349bn) aid package keeps Ukraine in the fight but it's no silver bullet, BBC's James Waterhouse writes from Kyiv.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2102/production/_133205480_gettyimages-1675219538.jpg",
+                        "altText": "Ukrainian President Volodymyr Zelensky speaks while visiting with wounded Ukrainian soldiers at the Staten Island University Hospital in New York",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sun Apr 21 2024 10:12:06 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sun Apr 21 2024 10:12:06 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68866912",
+            "id": "urn:bbc:cps:curie:asset:c46d7fe9-a5dd-40e0-a23e-b123a57cbc33",
+            "type": "article",
+            "subtype": "news",
+            "title": "US Speaker may pay political price for Ukraine deal",
+            "summary": "Republican Mike Johnson can savour a hard-fought victory, but hard-line colleagues are plotting to oust him.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/D502/production/_133203545_mediaitem133203544.jpg",
+                        "altText": "Republican House Speaker Mike Johnson. Photo: 20 April 2024",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat Apr 20 2024 20:06:04 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat Apr 20 2024 20:06:04 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68866766",
+            "id": "urn:bbc:cps:curie:asset:f03c8705-7d57-48e4-b3d5-e1409d46afc0",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Moment US House passes critical Ukraine aid package",
+            "summary": "The long-awaited vote comes as Kyiv faces a weapons shortage in its fight against Russia.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/EA1A/production/_133203995_p0hs3lql.jpg",
+                        "altText": "Marc Molinaro",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Sat Apr 20 2024 18:19:09 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Sat Apr 20 2024 18:19:09 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68857046",
+            "id": "urn:bbc:cps:curie:asset:c62de008-ca7c-4fd2-af68-710dc665f672",
+            "type": "article",
+            "subtype": "news",
+            "title": "Nato pledges more advanced air defences to Ukraine",
+            "summary": "Kyiv has long been pressing for hi-tech Patriot systems to defend against deadly Russian attacks.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/3EE3/production/_133199061_a4a23204e3ce3c30d78d7ad8db82ce7c3d5b1446-1.jpg",
+                        "altText": "A US-made Patriot missile is fired during military exercises. File photo",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 19 2024 19:58:23 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri Apr 19 2024 19:58:23 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68853490",
+            "id": "urn:bbc:cps:curie:asset:f7026e9e-97b7-4376-9827-06da717018b5",
+            "type": "article",
+            "subtype": "news",
+            "title": "Children among seven dead in Russia strike on Ukraine",
+            "summary": "Russia hits cities in central Ukraine, as Kyiv claims to have downed a strategic Russian warplane.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/15728/production/_133184878_photo_2024-04-19_06-36-41.jpg",
+                        "altText": "The station in the centre of Dnipro was damaged in the Russian attack",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 19 2024 07:29:28 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri Apr 19 2024 18:16:31 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68843542",
+            "id": "urn:bbc:cps:curie:asset:bee98e86-7b36-45c6-b138-bdc9b8ad2306",
+            "type": "article",
+            "subtype": "news",
+            "title": "After their PM halts Ukraine aid, Slovaks dig deep to help",
+            "summary": "A crowdfunding campaign to buy artillery shells for Ukraine quickly exceeds its target of \u20ac1m (\u00a3850,000).",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/15778/production/_133182978_ukraine-top2-epa.jpg",
+                        "altText": "Ukrainian servicemen of 228 Separate Battalion of the 127th Separate Territorial Defence Brigade shoot the anti-aircraft artillery complex S-60 from their position on a frontline in Zaporizhzhia area, Ukraine, 18 December 202",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Fri Apr 19 2024 05:18:36 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Fri Apr 19 2024 13:25:02 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68848317",
+            "id": "urn:bbc:cps:curie:asset:fc9f34e7-bbfe-4243-a17c-1cebbbc5f6a3",
+            "type": "article",
+            "subtype": "news",
+            "title": "Arrest over alleged Russia plot to kill Zelensky",
+            "summary": "Prosecutors say the man was tasked with getting information on an airport used by Ukraine's leader.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/C9B6/production/_133183615_gettyimages-2042271022.jpg",
+                        "altText": "President of Ukraine Volodymyr Zelenskyy attends the 'Ukraine. Year 2024' forum on February 25, 2024",
+                        "width": 1024,
+                        "height": 576
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 20:29:58 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 20:29:58 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68843541",
+            "id": "urn:bbc:cps:curie:asset:cc3f339c-6159-4eea-9a74-5a35fdb339fe",
+            "type": "article",
+            "subtype": "news",
+            "title": "Germany holds two in suspected Russian attacks plot",
+            "summary": "The alleged spies are accused of planning sabotage attacks to undermine military aid for Ukraine.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/127ED/production/_133175757_gettyimages-1258770918.jpg",
+                        "altText": "The German flag flies on a military vehicle at the military base of Kaufbeuren, southern Germany, during an Open Day of Germany's armed forces, the Bundeswehr, on June 17, 2023.",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 07:28:24 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 11:49:12 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ],
+    [
+        {
+            "path": "/news/world-europe-68840261",
+            "id": "urn:bbc:cps:curie:asset:9ba25b8e-308e-4e8c-be22-52caa791722e",
+            "type": "article",
+            "subtype": "news",
+            "title": "Ukraine warns of wider war ahead of US aid vote",
+            "summary": "Denys Shmyhal tells the BBC his country desperately needs the US to approve long-stalled security assistance.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/122ED/production/_133177447_ukrainesoldier-reuters.jpg",
+                        "altText": "APRIL 16: Soldiers of the Armed Forces of Ukraine from the unit of the mobile air defense group shoot down enemy drones using the ZU-23-2 Soviet 23-mm twin anti-aircraft gun on April 16, 2024 in an undisclosed location in Ukraine. (Photo by Kostiantyn Liberov/Libkos/Getty Images)",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 02:13:03 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 11:22:35 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/uk-england-lincolnshire-68838684",
+            "id": "urn:bbc:cps:curie:asset:168dcc4b-f6b9-4172-afa3-a1b07adfe648",
+            "type": "article",
+            "subtype": "news",
+            "title": "Firm's fresh appeal for laptops to send to Ukraine",
+            "summary": "Tattershall firm Sivill Service has delivered more than 5,000 devices to keep families connected.",
+            "topics": [
+                "Lincolnshire"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/272B/production/_133172001_mediaitem133171999.jpg",
+                        "altText": "Kelly Teasdale",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 07:21:07 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 07:21:07 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68842436",
+            "id": "urn:bbc:cps:curie:asset:81d76474-bfdf-41fa-8324-95f399be8b42",
+            "type": "article",
+            "subtype": "news",
+            "title": "EU to tighten Iran sanctions after Israel attack",
+            "summary": "The expanded penalties target companies involved in the production of drones and missiles.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/46A4/production/_133148081_6597d58888d3637cf86bf3e64048f12b5fad90a90_0_2000_13341000x667.jpg",
+                        "altText": "Iran military drill",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 04:53:52 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 04:53:52 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68842484",
+            "id": "urn:bbc:cps:curie:asset:35ba5026-62d3-4a91-9c15-75c946d760b7",
+            "type": "video",
+            "subtype": "clip news",
+            "title": "Ukraine PM warns of Third World War if Russia wins",
+            "summary": "Denys Shmyhal spoke about Russian aggression and propaganda ahead of a vote by Congress on foreign aid.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1271B/production/_133174557_p0hrgz9y.jpg",
+                        "altText": "Prime Minister of Ukraine Denys Shmyhal",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Thu Apr 18 2024 03:00:58 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Thu Apr 18 2024 03:00:58 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-68819853",
+            "id": "urn:bbc:cps:curie:asset:72cc76be-9e63-4654-98c6-515104146e8b",
+            "type": "article",
+            "subtype": "news",
+            "title": "50,000 Russian soldiers confirmed dead by BBC",
+            "summary": "In the second 12 months on the front line the body count was nearly 25% higher than in the first year.",
+            "topics": [
+                "World"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/11CAB/production/_133157827_russian_deaths_part2_index_promo_976-nc.png",
+                        "altText": "Russian dead",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 17 2024 03:13:58 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 17 2024 16:26:01 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-europe-68833833",
+            "id": "urn:bbc:cps:curie:asset:43f31cbb-0992-4104-826e-1b7fd2dd220c",
+            "type": "article",
+            "subtype": "news",
+            "title": "Russian missile strike in northern Ukraine kills 18",
+            "summary": "Dozens more people are wounded in the attack close to the centre of Chernihiv, officials say.",
+            "topics": [
+                "Europe"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7C8E/production/_133168813_ukraine_getty.jpg",
+                        "altText": "Rescuers workers at the site of a destroyed building during a Russian missile strike, amid Russia's attacks on Ukraine, in Chernihiv, Ukraine on 17 April 2024",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Wed Apr 17 2024 07:31:59 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Wed Apr 17 2024 14:32:33 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        },
+        {
+            "path": "/news/world-us-canada-68825646",
+            "id": "urn:bbc:cps:curie:asset:32c9e47c-ad8a-4a41-9bc4-433f22f3e606",
+            "type": "article",
+            "subtype": "news",
+            "title": "House could vote on Ukraine aid this week, Speaker says",
+            "summary": "Kyiv has grown frustrated with hold-ups to new US support, as Russia makes steady gains in its invasion.",
+            "topics": [
+                "US & Canada"
+            ],
+            "indexImage": {
+                "type": "indexImage",
+                "model": {
+                    "blocks": {
+                        "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/169BE/production/_133160629_gettyimages-2147837493.jpg",
+                        "altText": "A Ukrainian soldier walks past an unexploded Russian bomb",
+                        "width": 976,
+                        "height": 549
+                    }
+                }
+            },
+            "firstPublishedAt": "Tue Apr 16 2024 10:52:35 GMT+0000 (Coordinated Universal Time)",
+            "lastPublishedAt": "Tue Apr 16 2024 10:52:35 GMT+0000 (Coordinated Universal Time)",
+            "state": "published"
+        }
+    ]
+]

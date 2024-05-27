@@ -1,0 +1,32 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ReportageNewsArticle",
+    "url": "https://www.bbc.com/news/articles/c0kkqkngnedo",
+    "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "BBC News",
+        "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+        }
+    },
+    "datePublished": "2024-05-26T23:18:40.469Z",
+    "dateModified": "2024-05-27T11:44:46.185Z",
+    "description": "Israel's military says it is investigating the strike, which also killed two senior Hamas officials.",
+    "headline": "Gaza war: Dozens reported killed in Israeli strike on Rafah",
+    "image": {
+        "@type": "ImageObject",
+        "width": 1024,
+        "height": 576,
+        "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ce68/live/4fedd670-1bf1-11ef-9ccf-59d999e3f0e5.jpg"
+    },
+    "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ce68/live/4fedd670-1bf1-11ef-9ccf-59d999e3f0e5.jpg",
+    "mainEntityOfPage": "https://www.bbc.com/news/articles/c0kkqkngnedo",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Thomas Mackintosh"
+        }
+    ]
+}
