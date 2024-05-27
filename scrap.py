@@ -169,7 +169,6 @@ async def parse_page(session, url):
 
 
 async def extract(data, session):
-    logger.debug(f"data to be extracted : {data}")
     obj = data["data"]
     logger.info(f"Extracting from path {obj['path']}")
     result = {}
@@ -271,7 +270,7 @@ async def get_data_from_api(session, t, retry_count=3, retry_delay=2):
 
 def save(data):
     df = pd.DataFrame(data)
-    df.to_csv('./temp/scraped_data.csv', mode='a', sep='|', index=False, header=False)
+    df.to_csv('./tmp/scraped_data.csv', mode='a', sep='|', index=False, header=False)
 
 
 
